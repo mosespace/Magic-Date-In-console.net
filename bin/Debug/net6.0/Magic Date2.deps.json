@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Magic Date2/1.0.0": {
+        "runtime": {
+          "Magic Date2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Magic Date2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
